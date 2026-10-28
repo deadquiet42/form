@@ -1,6 +1,8 @@
 # FORM
 
-An instrument made of light. A small body of points sits still and silent until you touch it, then bends, twists, swells and sings, with tuned strikes on every face. Every launch is a slightly different FORM. Headphones recommended.
+An experimental audiovisual sculpture. Pure maths: a body of points, a drone and tuned strikes, all generated in real time and shaped by the controls. A nod to the demoscene and to 90s and 00s drone and IDM.
+
+Made for the R36S control layout: D-pad, A B X Y, L1 R1 L2 R2, two analogue sticks with L3 and R3, Select and Start.
 
 One C file, SDL2 only. No samples, fonts or other assets.
 
